@@ -60,8 +60,8 @@ body {
 .languagebar {
 	color:#fffefc;
 	background-color:#247BA0;
+	-ms-block-progression: #033a51;
+	position: absolute;
+	height: 100;
+	width: 25;
 	}
-
-.position-absolute {
-	background-color: #033a51;
-}
