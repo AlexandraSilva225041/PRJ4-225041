@@ -60,27 +60,26 @@ body {
 .languagebar {
 	color:#fffefc;
 	background-color:#247BA0;
-	progress-bar: #033a51;
 	position: absolute;
 	}
 
 .progressbar100 {
-	height:100%;
-	width:100%;
+	height:100px;
+	width:100px;
 	background: #033a51;
 	}
 .progressbar75 {
-	height: 100%;
-	width:100%;
-	background: linear-gradient(to right, #033a51 75%, #247BA0 75%);
+	height: 100px;
+	width:100px;
+	background: linear-gradient(to right, #033a51 75px, #247BA0 75px);
 }
 .progressbar50{
-	height: 100%;
-	width:100%;
-	background: linear-gradient(to right, #033a51 50%, #247BA0 50%);
+	height: 100px;
+	width:100px;
+	background: linear-gradient(to right, #033a51 50px, #247BA0 50px);
 }
 .progressbar25{
-	height: 100%;
-	width:100%;
-	background: linear-gradient(to right, #033a51 25%, #247BA0 25%);
+	height: 100px;
+	width:100px;
+	background: linear-gradient(to right, #033a51 25px, #247BA0 25px);
 }
