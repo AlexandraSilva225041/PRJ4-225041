@@ -7,21 +7,22 @@
 
 body {
 	font-family: Rubik, "sans-serif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
 	}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #102a71;
+	color: #fffefc;
+	background-color: #102a71;
 }
 
 .resume-main {
+	color: #001840;
 	background-color: #fffefc;
 }
 
 .resume-aside {
+	color: #001840;
 	background-color: #ffdc5f;
 }
 
