@@ -81,6 +81,6 @@ body {
 }
 .progressbar25{
 	height: 100%;
-	width:25%;
+	width:100%;
 	background: linear-gradient(to right, #033a51 25%, #247BA0 75%);
 }
