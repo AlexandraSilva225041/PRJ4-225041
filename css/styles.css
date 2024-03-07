@@ -60,5 +60,7 @@ body {
 .languagebar {
 	color:#fffefc;
 	background-color:#247BA0;
-	margin: #033A51;
+}
+languagebar::-webkit-progress-value{
+	background-color:#033A51
 }
