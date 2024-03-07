@@ -56,3 +56,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.languagebar {
+	color:#fffefc;
+	background-color:#247BA0;
+	border: 4px #033A51;
+}
