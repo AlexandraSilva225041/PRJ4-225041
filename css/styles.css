@@ -63,3 +63,14 @@ body {
 	progress-bar: #033a51;
 	position: absolute;
 	}
+
+#progressbar100 {
+	height:100px;
+	width:100px;
+	background: #033a51;
+	}
+#progressbar75 {
+	height: 100px;
+	width:75px;
+	fill-color: #033a51;
+}
