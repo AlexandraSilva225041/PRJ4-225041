@@ -6,13 +6,10 @@
 /* Styles for the body */
 
 body {
-.rubik-body {
-  font-family: Rubik, sans-serif, Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-  color: #001840;
-  background-color: #f8f8fc;
+.rubik-<uniquifier> {
+	font-family: Rubik, "sans-serif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #202030;
+	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -40,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #102a71;
 }
 
 .biography-details li, .skill-list li {
