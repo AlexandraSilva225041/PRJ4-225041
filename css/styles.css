@@ -64,13 +64,23 @@ body {
 	position: absolute;
 	}
 
-#progressbar100 {
+.progressbar100 {
 	height:100px;
 	width:100px;
 	background: #033a51;
 	}
-#progressbar75 {
+.progressbar75 {
 	height: 100px;
-	width:75px;
-	fill-color: #033a51;
+	width:100px;
+	background: linear-gradient(to right, #033a51 75%, #247BA0 25%);
+}
+.progressbar50{
+	height: 100px;
+	width:100px;
+	background: linear-gradient(to right, #033a51 50%, #247BA0 50%);
+}
+.progressbar25{
+	height: 100px;
+	width:100px;
+	background: linear-gradient(to right, #033a51 25%, #247BA0 75%);
 }
