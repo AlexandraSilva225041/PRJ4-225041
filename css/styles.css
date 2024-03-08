@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Rubik, "sans-serif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Rubik, "sans-serif";
 	color:#033A51;
 	background-color: #fffefc;
 	}
@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .rubik {
-  font-family: "rubik", sans-serif, Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "rubik", sans-serif;
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
